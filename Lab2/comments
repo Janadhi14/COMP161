@@ -1,0 +1,9 @@
+/** form of block comment that is ised by tools, automatically prodice docimentation from Java code.
+*/
+
+/* this is a block comment. It can span as many lines as require. 
+Block comments are used for comments that are longer than a sinle line. 
+*/
+
+
+// single line comment , anything between the // and the end of the line is ignored 
