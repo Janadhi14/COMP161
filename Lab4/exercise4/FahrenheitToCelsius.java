@@ -1,6 +1,6 @@
 //we need to first import 
 import java.util.Scanner; 
-public class FahrenheitToCelsius {
+public class fahrenheitToCelsius {
     public static void main ( String [ ] args ) {  
         double x = celsiusToFahrenheit( "Please enter an the tempreature in celsius:" ); //we are able to alter these 2 statements in order to call other methods within the program.
         System.out.println( "the tempreature in fahrenheit is: " + ((x-32)/1.8) + "degrees.");
